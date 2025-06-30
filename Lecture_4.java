@@ -15,6 +15,16 @@ public class Lecture_4 {
       //       System.err.println(counter);
       //   }
 
+          // for (int i = 0; i < 21; i++) {
+            // System.out.println(i);
+        // }
+
+
+                // Qs. print the Numbes from 0to 100............
+
+        // for (int i = 0; i < 101; i++) {
+        // System.out.println(i);
+        // }
 
 
       
